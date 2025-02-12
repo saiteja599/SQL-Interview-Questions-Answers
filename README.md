@@ -19,7 +19,7 @@
 # 18.how do you replace null values in a given table?
 # 19.what are views can you tell me the use case of it?
 # 20.what are case statements in sql when do we use it?
-# 21.Given a table in this table you have employee id and employee name and manger id write a sql query to find out there are minimum two employees reporting to a single manager/
+# 21.Given a table in this table you have employee id and employee name and manger id write a sql query to find out there are minimum two employees reporting to a single manager?
 # 22.what is cte when do you use it and what is the synatx for cte?
 # 23.what is normalization and denormalization in sql ?
 # 24.what is call procedure in sql can you give me a syntax for it?
